@@ -4,7 +4,7 @@ seoTitle: "Journey to Blogging"
 seoDescription: "A developer’s first-time journey into blogging-learning, growing, and sharing insights from day one."
 datePublished: Tue Dec 09 2025 09:27:28 GMT+0000 (Coordinated Universal Time)
 cuid: cmiydmyp9000h02l43ouh88sx
-slug: hello-world-why-i-finally-decided-to-start-blogging
+slug: why-i-started-blogging
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765271484434/214c5b69-0f69-4b45-859f-4b988e6a4db4.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1765272125456/b23645f8-473f-4b3f-93d3-2df17aecad91.jpeg
 tags: introduction, blogging, web-development, learning-in-public
